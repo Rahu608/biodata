@@ -1,0 +1,69 @@
+.outer{
+    width: 700px;
+    height: 900px;
+    border: 2px solid red;
+    margin: 0px auto;
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+/* p{
+    font-size: 20px;
+    margin-left: 10px; */
+
+.boder{
+    width: 690px;
+    padding: 5px;
+    background-color: aqua;
+    border:  1px solid black;
+    font-weight: bold;
+
+}
+.main{
+    display: flex;
+    margin: 20px;
+    padding: 5px;
+}
+#name{
+    padding: right;
+    font-size: 20px;
+}
+#photo{
+    height: 120px;
+    width: 100px;
+    background-image: url(rahul.jpg);
+    background-size: cover;
+    border-radius: 30px;
+    marker-end: 10%;
+    
+}
+.education{
+    width: 690px;
+    padding: 5px;
+    background-color: aqua;
+    border:  1px solid black;
+    font-weight: bold;
+}
+.relevantskills{
+    width: 690px;
+    padding: 5px;
+    background-color: aqua;
+    border:  1px solid black;
+    font-weight: bold;
+}
+.Projects{
+    width: 690px;
+    padding: 5px;
+    background-color: aqua;
+    border:  1px solid black;
+    font-weight: bold;
+}
+.workexprence{
+    width: 690px;
+    padding: 5px;
+    background-color: aqua;
+    border:  1px solid black;
+    font-weight: bold;
+}
